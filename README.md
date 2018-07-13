@@ -1,9 +1,7 @@
 
 # Setting up this integration for yourself #
 
-In order for this to work you need to have a Slack **Workspace**, a **Slack app** with **Slash Commands** & **billed** boolean field(**case-sensitive**) in your SashiDo App's **User** class.
-
-If you already have a Workspace & Slack App, skip to [Setting up Slash Commands](#setting-up-slash-commands)
+In order for this to work you need to have a **Slack Workspace**, a **Slack app** with **Slash Commands** and a **billed** boolean field(**case-sensitive**) in your **SashiDo App's _User_** class.
 
 Copy the content of the **app.js** file to your own SashiDo App's **app.js** file. It can be found in your **GitHub Repo -> Cloud** folder.
 
